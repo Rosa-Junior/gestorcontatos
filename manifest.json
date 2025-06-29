@@ -1,6 +1,6 @@
 
 {
-  "name": "Gestão de Contatos",
+  "name": "Gestor de Contatos",
   "short_name": "Contatos",
   "start_url": "index.html",
   "display": "standalone",
