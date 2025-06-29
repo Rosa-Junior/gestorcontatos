@@ -28,3 +28,7 @@ O app armazena rapidamente os contatos, de forma fluida e concisa.
 **HTML**
 
 **CSS**
+
+# <h1 align="center"> Autor </h1>
+**Antonio Rosa Junior**
+https://github.com/Rosa-Junior
