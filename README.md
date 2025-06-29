@@ -24,5 +24,7 @@ O app armazena rapidamente os contatos, de forma fluida e concisa.
 # :computer: Tecnologias e técnicas utilizadas:
 
 **JavaScript**
+
 **HTML**
+
 **CSS**
