@@ -18,7 +18,7 @@ O app armazena rapidamente os contatos, de forma fluida e concisa.
 # :floppy_disk: Abrir e rodar o projeto
 
 **Acesse o link pelo Google Chrome no Smartphone.**
-**Ao acessar o link, clique nos 3 pontos no canto superior e selecione a opção "Adicionar à tela inicial" e aparecerá a opção de instalar.**
+**Ao acessar o link, clique nos 3 pontos no canto superior direito e selecione a opção "Adicionar à tela inicial" e aparecerá a opção de instalar.**
 
 
 # :computer: Tecnologias e técnicas utilizadas:
