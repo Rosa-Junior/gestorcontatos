@@ -1,0 +1,75 @@
+
+:root {
+  --primary: #6200ee;
+  --bg: #ffffff;
+  --text: #000000;
+}
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #ffffff;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+main {
+  flex: 1;
+  padding: 1rem;
+}
+footer {
+  background: var(--primary);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+footer button {
+  background: none;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+button {
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 0.25rem;
+}
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+#inicio {
+  text-align: center;
+  padding-top: 2rem;
+}
+#inicio h2 {
+  font-size: 1.8rem;
+}
+#inicio p {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+#inicio button {
+  font-size: 1rem;
+  padding: 0.75rem 1.5rem;
+}
+.hidden {
+  display: none;
+}
